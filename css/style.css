@@ -114,9 +114,9 @@ button {
     outline: none;
     border: none;
     resize: none;
-    /* height: 100%; */
     font-size: 16px;
     scrollbar-width: none;
+    background-color: transparent;
 }
 
 .search-input__actions > button {
